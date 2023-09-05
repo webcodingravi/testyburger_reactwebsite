@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testyburger_reactwebsite/static/css/main.ffe60851.css",
-    "main.js": "/testyburger_reactwebsite/static/js/main.b8a490b2.js",
+    "main.js": "/testyburger_reactwebsite/static/js/main.87ae67af.js",
     "static/js/787.69e11ded.chunk.js": "/testyburger_reactwebsite/static/js/787.69e11ded.chunk.js",
     "static/media/hero-2.png": "/testyburger_reactwebsite/static/media/hero-2.12b0d8ea4fb63911c1fe.png",
     "static/media/bg.jpg": "/testyburger_reactwebsite/static/media/bg.ac5237841ce77dfce589.jpg",
@@ -36,11 +36,11 @@
     "static/media/brand-16.png": "/testyburger_reactwebsite/static/media/brand-16.39e872b117651240bc57.png",
     "index.html": "/testyburger_reactwebsite/index.html",
     "main.ffe60851.css.map": "/testyburger_reactwebsite/static/css/main.ffe60851.css.map",
-    "main.b8a490b2.js.map": "/testyburger_reactwebsite/static/js/main.b8a490b2.js.map",
+    "main.87ae67af.js.map": "/testyburger_reactwebsite/static/js/main.87ae67af.js.map",
     "787.69e11ded.chunk.js.map": "/testyburger_reactwebsite/static/js/787.69e11ded.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ffe60851.css",
-    "static/js/main.b8a490b2.js"
+    "static/js/main.87ae67af.js"
   ]
 }
